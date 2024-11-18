@@ -7,3 +7,11 @@ This is the capstone project of the Trainee Full-Stack Developer Programme offer
 - Database: SQLite
 
 For more details check [the detailed documentation](/docs/README.md).
+
+
+
+nvm install 16.15
+nvm use 16.15.1
+
+npm install -g @angular/cli@16
+
